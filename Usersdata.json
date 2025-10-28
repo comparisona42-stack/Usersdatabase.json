@@ -20,5 +20,5 @@
         "username": "11",
         "password": "BILLIONAIRE",
         "expirydate": "31-05-2026",
-        "Allowoffline": true
+        "Allowoffline":false
     }
