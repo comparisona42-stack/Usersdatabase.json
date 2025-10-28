@@ -14,3 +14,11 @@
         "Allowoffline": false
     }
 ]
+[
+    {
+        "device_id": "f69839924d43019f",
+        "username": "Pass1",
+        "password": "Neww1",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }
