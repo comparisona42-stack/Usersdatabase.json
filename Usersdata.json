@@ -10,7 +10,7 @@
         "device_id": "ca77e551c50bb2fa",
         "username": "TONYSTARK",
         "password": "pass4211",
-        "expirydate": "15-12-2025",
+        "expirydate": "15-12-2026",
         "Allowoffline": false
     },
 
@@ -18,7 +18,7 @@
         "device_id": "f69839924d43019f",
         "username": "user2",
         "password": "12345678",
-        "expirydate": "15-12-2029",
+        "expirydate": "15-12-2028",
         "Allowoffline": false
     }
  
